@@ -2,6 +2,8 @@
 
 A forensic security tool to scan GitHub Pull Request diffs for suspicious patterns. Download and analyze PR diffs at scale to detect potential security issues, secrets, and malicious code injections.
 
+> ⚡ **Built with fast vibe coding for vulnerability research** 🔬
+
 ## Features
 
 - 🔍 **Regex Pattern Search** - Search PR diffs using powerful regex patterns
