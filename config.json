@@ -1,0 +1,11 @@
+{
+    "repo": "barakharyati/GithubForensicTest",
+    "search_patterns": [
+        ".*input_filter=.*",
+        ".*input_filter\\s*=.*"
+    ],
+    "pr_state": "all",
+    "per_page": 100,
+    "max_workers": 10,
+    "limit": 100
+}

@@ -1,0 +1,16 @@
+# Environment variables (contains tokens)
+.env
+
+# Scan results and downloaded PR diffs
+scans/
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+*.swp
+config.json
